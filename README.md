@@ -56,12 +56,9 @@ interface gig0/1
 🎯 Features
 
 Different departments isolated using VLANs
-
 Inter-VLAN communication via router
 HMS Server accessible from all departments
-
-Secure and scalable
-
+Secure and scalable                                                                                
 🏥 Simple Hospital Network – Single LAN Setup
 
 This project represents a basic hospital network where all devices are connected through a single switch without VLANs.
